@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  color: #6d0a65;
+  background-color: #ffedcc;
+}
+
+.App-logo {
+  height: 15vmin;
+  pointer-events: none;
+  position: fixed;
+}
+
+.App-header {
+  background-color: #6d0a65;
+  display: grid;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+
+}
+
+.App-link {
+  color: #050607;
+}
+
+.App-nav {
+  margin-right: auto;
+  text-align: center;
+  justify-content: center;
+  padding: 23px;
+}
+.App-carrito {
+  height: 12vmin;
+  position: fixed;
+  margin-left: 1200px;
+  margin-top: 12px;
+  cursor: pointer;
+  background-color: #ffedcc;
+  padding: 10px;
+}
